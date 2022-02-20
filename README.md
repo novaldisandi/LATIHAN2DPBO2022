@@ -35,16 +35,16 @@ python [name].py
 
 #### PHP <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN2DPBO2022/blob/main/LATIHAN2/ScreenShots/Latihan2_PHP.png)
+![alt text](https://github.com/novaldisandi/LATIHAN2DPBO2022/blob/main/screenshot/php3.PNG)
 
 #### C++ <br> <br>
-![alt text](https://github.com/driskimaulana/LATIHAN2DPBO2022/blob/main/LATIHAN2/ScreenShots/Latihan2_CPP.png)
+![alt text](https://github.com/novaldisandi/LATIHAN2DPBO2022/blob/main/screenshot/cpp1.PNG)
 
 #### Java <br> <br>
-![alt text](https://github.com/driskimaulana/LATIHAN2DPBO2022/blob/main/LATIHAN2/ScreenShots/Latihan2_Java.png)
+![alt text](https://github.com/novaldisandi/LATIHAN2DPBO2022/blob/main/screenshot/java1.PNG)
 
 #### Python <br> <br>
-![alt text](https://github.com/driskimaulana/LATIHAN2DPBO2022/blob/main/LATIHAN2/ScreenShots/Latihan2_Python.png)
+![alt text](https://github.com/novaldisandi/LATIHAN2DPBO2022/blob/main/screenshot/python1.PNG)
 
 
 ## Terima Kasih
